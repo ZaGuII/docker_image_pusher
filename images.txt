@@ -1,1 +1,2 @@
-postgres:12.22
+zabbix/zabbix-server-pgsql:ubuntu-5.0.14
+zabbix/zabbix-web-nginx-pgsql:ubuntu-5.0.14
