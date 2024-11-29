@@ -1,4 +1,1 @@
-zabbix/zabbix-server-mysql:5.0.14-ubuntu
-zabbix/zabbix-server-mysql:ubuntu-5.0.14
-zabbix/zabbix-web-nginx-mysql:5.0.14-ubuntu
-zabbix/zabbix-web-nginx-mysql:ubuntu-5.0.14
+mysql:8.0.40
