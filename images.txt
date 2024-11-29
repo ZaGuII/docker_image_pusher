@@ -1,2 +1,1 @@
-zabbix/zabbix-server-pgsql:ubuntu-5.0.14
-zabbix/zabbix-web-nginx-pgsql:ubuntu-5.0.14
+dockette/nexus:3.71.0
