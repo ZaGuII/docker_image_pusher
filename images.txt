@@ -1,1 +1,1 @@
-dockette/nexus:3.73.0-java17-ubi
+bitnamicharts/harbor:24.0.2
