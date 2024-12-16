@@ -1,1 +1,1 @@
-bitnamicharts/harbor:sha256-0a22e96281f0fb8d2bd34f151c4ecdb7db27b8e29c25fdaf8300aa9cf66426b7
+bitnami/openldap:2.5.19
