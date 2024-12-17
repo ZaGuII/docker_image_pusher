@@ -1,1 +1,1 @@
-bitnami/openldap:2.5.19
+ghcr.io/ldapaccountmanager/lam:9.0.rc1
