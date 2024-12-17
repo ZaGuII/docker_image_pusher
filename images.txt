@@ -1,1 +1,1 @@
-ghcr.io/ldapaccountmanager/lam:9.0.rc1
+ghcr.io/ldapaccountmanager/lam:8.9
