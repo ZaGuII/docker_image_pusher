@@ -1,1 +1,3 @@
-ghcr.io/ldapaccountmanager/lam:9.0
+bitnami/prometheus:3.0.1
+grafana/grafana:11.4.0
+
