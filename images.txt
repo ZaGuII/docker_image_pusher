@@ -1,2 +1,2 @@
-grafana/grafana-oss:11.4.0
+goharbor/prepare:v2.12.1
 
