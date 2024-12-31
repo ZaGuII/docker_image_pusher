@@ -1,2 +1,2 @@
-goharbor/prepare:v2.12.1
+telegraf:1.33.0
 
