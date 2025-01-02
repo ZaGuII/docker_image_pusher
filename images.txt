@@ -1,3 +1,2 @@
-pryorda/vmware_exporter:v0.18.4
-ubuntu/prometheus:2.50.1-22.04
+prom/prometheus:v3.0.1
 
